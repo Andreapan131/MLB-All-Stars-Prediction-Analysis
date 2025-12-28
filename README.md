@@ -1,4 +1,4 @@
-# PredictiveAnalytics_MLB-All-Stars
+# MLB All Stars Prediction Analysis
 
 ## 📌 Project Purpose
 
