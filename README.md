@@ -38,9 +38,9 @@ This project aims to predict the **likelihood of MLB players being selected as A
   - Accuracy is inappropriate to severe class imbalance
  
 ### 3️⃣ Data Visualization
-- ROC Curves – Compared model discrimination across classifiers
-- F1 & Recall vs. Threshold Plots – Demonstrated how threshold tuning improves F1 & recall
-- All-Star Probability Rankings – Visualized player-level All-Star probabilities
+- **ROC Curves** – Compared model discrimination across classifiers
+- **F1 & Recall vs. Threshold Plots** – Demonstrated how threshold tuning improves F1 & recall
+- **All-Star Probability Rankings** – Visualized player-level All-Star probabilities
 
 ## 📌 Performance Summary
 Model selected based on business objective:
