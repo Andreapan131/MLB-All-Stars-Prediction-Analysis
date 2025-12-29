@@ -25,7 +25,7 @@ This project aims to predict the **likelihood of MLB players being selected as A
   - **Logistic Regression**: Estimated the probability of All-Star selection
   - **Decision Tree**: Identified key factors with the highest predictive power
   - **Random Forest**: Improved robustness through ensemble learning
-  - **Naive Bayes**: 
+  - **Naive Bayes**: Enabled efficient probabilistic classification
   
 - **Imbalance handling**
   - Tuned classification thresholds
@@ -63,3 +63,8 @@ Model selected based on business objective:
 - **Roster and salary planning**: Spot future All-Stars early and plan payroll ahead
 - **Marketing and fan engagement**: Promote high-probability All-Star candidates sooner
 - **Decision-making**: Use probabilities to make proactive, not reactive, decisions
+
+## 📂 Repository Files
+- `MLB_data` – dataset used for prediction
+- `FINAL_ML_All_Star_FBETA` – Python script for models and feature selection
+- `README.md` – Project documentation
