@@ -1,7 +1,7 @@
 # MLB All-Stars Prediction Analysis
 
 ## 📌 Project Purpose
-This project aims to predict the **likelihood of MLB players being selected as All-Stars** using historical performance data. By applying **supervised machine learning models** to a highly imbalanced classification problem, the analysis focuses on identifying players with strong All-Star potential early. The results are designed to support **team decision-making** in areas such as **roster planning, salary forecasting, and marketing strategy**.
+This project aims to predict the **likelihood of MLB players being selected as All-Stars** using historical performance data. By applying **supervised ML models** to a highly imbalanced classification problem, the analysis focuses on identifying players with strong All-Star potential early. The results are designed to support **team decision-making** in areas such as **roster planning, salary forecasting, and marketing strategy**.
 
 ## 📊 Dataset Description
 - Source: Public MLB batting statistics dataset (2021–2024 seasons)
