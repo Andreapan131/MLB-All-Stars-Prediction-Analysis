@@ -12,20 +12,20 @@ This project aims to predict the **likelihood of MLB players being selected as A
 - Offensive metrics (e.g., BA, OBP, SLG, OPS, HR, RBI)
 - Contextual information (team, league, season) --> Removed
 
-- **Target variable: All-Star selection (AS = 1/0)**, highly imbalanced outcome (~10% All-Stars)
+- **Target variable: All-Star selection (AS = 1/0)**; highly imbalanced (~10% All-Stars)
 
 ## 🏷 Methodology
 ### 1️⃣ Data Preparation & Preprocessing
 - Selected and Standardized the features
 - Transformed categorical data to numeric data
-- Split the dataset into training (70%) and test (30%) sets.
+- Split the dataset into training (70%) and test (30%) sets
 
 ### 2️⃣ Modeling approach
 - **Model selection**
-  - **Logistic Regression**: Assessed the relationship between attributes and All-star
+  - **Logistic Regression**: Estimated the probability of All-Star selection
   - **Decision Tree**: Identified key factors with the highest predictive power
-  - **Random Forest**: Aggregates multiple decision trees to improve stability and reduce overfitting
-  - **Naive Bayes**:   
+  - **Random Forest**: Improved robustness through ensemble learning
+  - **Naive Bayes**: 
   
 - **Imbalance handling**
   - Tuned classification thresholds
